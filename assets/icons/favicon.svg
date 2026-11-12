@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <rect width="32" height="32" fill="#3a261c" rx="4"/>
+  <rect x="4" y="4" width="24" height="24" fill="#f7f1e5"/>
+  <!-- Cozy Cottage Roof -->
+  <polygon points="16,6 6,15 26,15" fill="#b85437"/>
+  <!-- Chimney -->
+  <rect x="20" y="7" width="3" height="5" fill="#6b4632"/>
+  <!-- House Base -->
+  <rect x="8" y="15" width="16" height="11" fill="#faeed7"/>
+  <!-- Timber Beams -->
+  <rect x="8" y="15" width="2" height="11" fill="#694833"/>
+  <rect x="22" y="15" width="2" height="11" fill="#694833"/>
+  <!-- Glowing Window -->
+  <rect x="11" y="18" width="4" height="4" fill="#ffdf78"/>
+  <!-- Door -->
+  <rect x="17" y="18" width="4" height="8" fill="#543622"/>
+</svg>
