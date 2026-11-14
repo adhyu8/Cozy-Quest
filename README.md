@@ -1,6 +1,6 @@
 # 🌱 Cozy Quest
 
-### Your KTU S3 studies, reimagined as a cozy RPG adventure.
+### Your KTU S3 AI&DS studies, reimagined as a cozy RPG adventure.
 
 Cozy Quest is a cozy, pixel-art-inspired study companion designed around the KTU S3 syllabus.
 
@@ -19,7 +19,7 @@ Complete topics, earn XP, unlock new realms, collect rewards, and watch your adv
 
 ## ✨ Features at a Glance
 
-- 📚 KTU S3 subject and topic tracking.
+- 📚 KTU S3 AI&DS subject and topic tracking.
 - ⭐ XP rewards and eight player levels.
 - 📜 Daily quests and bonus activities.
 - ⚔️ Adventure Guild with extra XP activities.
@@ -56,7 +56,7 @@ The goal is to make your study progress feel like something you can actually see
 
 # 📚 2. Academic Quest Board
 
-Your KTU S3 syllabus is the main questline of Cozy Quest.
+Your KTU S3 AI&DS syllabus is the main questline of Cozy Quest.
 
 The Quest Board organises your subjects into expandable cards, each containing individual topics that you can mark as completed.
 
