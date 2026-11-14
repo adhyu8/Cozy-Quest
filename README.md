@@ -14,6 +14,27 @@ Complete topics, earn XP, unlock new realms, collect rewards, and watch your adv
 
 ## 📸 Screenshots
 
+### 🏡 Cozy Quest Dashboard
+
+![Cozy Quest Dashboard](screenshots/cozy-quest-home.png)
+
+### 🌄 Explore the Five Realms
+
+| Forgotten Meadow | Whispering Woods |
+|---|---|
+| ![Forgotten Meadow](screenshots/realm-meadow.png) | ![Whispering Woods](screenshots/realm-woods.png) |
+
+| Crystal Highlands | Ancient Kingdom |
+|---|---|
+| ![Crystal Highlands](screenshots/realm-highlands.png) | ![Ancient Kingdom](screenshots/realm-kingdom.png) |
+
+### ✨ Celestial Sanctuary
+
+![Celestial Sanctuary](screenshots/realm-celestial.png)
+
+### ⚙️ Settings & Backup
+
+![Cozy Quest Settings](screenshots/cozy-quest-settings.png)
 
 ---
 
